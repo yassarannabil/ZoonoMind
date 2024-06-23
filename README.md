@@ -1,4 +1,6 @@
-# Dengue Fever (DBD) Prediction with Streamlit
+# ZoonoMind
+
+## Dengue Fever (DBD) Prediction with Streamlit
 
 This project is a Streamlit application to predict the risk of Dengue Fever (DBD) based on user-inputted data.
 
